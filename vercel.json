@@ -1,0 +1,9 @@
+{ 
+   "redirects": [ 
+     { 
+       "source": "/post/:slug*", 
+       "destination": "https://bestfeed.us/:slug*", 
+       "permanent": true 
+     } 
+   ] 
+}
